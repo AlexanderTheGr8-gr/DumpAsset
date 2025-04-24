@@ -31,7 +31,7 @@
 "SortCategory": 8,
 "Price": 250,
 "Rarity": 0,
-"MaxStack": 0,
+"MaxStack": 10,
 "CannotDrop": false,
 "BagEffect": false,
 "ItemStates": [
