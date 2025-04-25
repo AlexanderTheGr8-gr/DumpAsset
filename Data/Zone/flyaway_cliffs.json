@@ -7781,7 +7781,7 @@
 "ID": "apricorn_white",
 "Cursed": false,
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0
 },
 "Rate": 5,
@@ -7795,7 +7795,7 @@
 "ID": "apricorn_plain",
 "Cursed": false,
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0
 },
 "Rate": 5,
@@ -8855,7 +8855,7 @@
 "Cursed": false,
 "Value": "apricorn_white",
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0,
 "TileLoc": {
 "X": 0,
@@ -11472,7 +11472,7 @@
 "Cursed": false,
 "Value": "apricorn_brown",
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0,
 "TileLoc": {
 "X": 0,
@@ -11487,7 +11487,7 @@
 "Cursed": false,
 "Value": "apricorn_purple",
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0,
 "TileLoc": {
 "X": 0,
@@ -13095,7 +13095,7 @@
 "Cursed": false,
 "Value": "apricorn_brown",
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0,
 "TileLoc": {
 "X": 0,
@@ -13110,7 +13110,7 @@
 "Cursed": false,
 "Value": "apricorn_purple",
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0,
 "TileLoc": {
 "X": 0,
@@ -14718,7 +14718,7 @@
 "Cursed": false,
 "Value": "apricorn_brown",
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0,
 "TileLoc": {
 "X": 0,
@@ -14733,7 +14733,7 @@
 "Cursed": false,
 "Value": "apricorn_purple",
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0,
 "TileLoc": {
 "X": 0,

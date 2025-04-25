@@ -11,8 +11,8 @@ COMMON.ESSENTIALS = {
   { Index = "berry_leppa", Amount = 0, Price = 80},
   { Index = "berry_lum", Amount = 0, Price = 120},
   { Index = "seed_reviver", Amount = 0, Price = 500},
-  { Index = "apricorn_plain", Amount = 0, Price = 400},
-  { Index = "apricorn_plain", Amount = 0, Price = 400}
+  { Index = "apricorn_plain", Amount = 2, Price = 400},
+  { Index = "apricorn_plain", Amount = 2, Price = 400}
 }
   
 COMMON.UTILITIES = {

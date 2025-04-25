@@ -2868,7 +2868,7 @@
 "ID": "apricorn_purple",
 "Cursed": false,
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0
 },
 "Rate": 10
@@ -4939,7 +4939,7 @@
 "ID": "apricorn_green",
 "Cursed": false,
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0
 },
 "Rate": 2,
@@ -4953,7 +4953,7 @@
 "ID": "apricorn_white",
 "Cursed": false,
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0
 },
 "Rate": 2,
@@ -5497,7 +5497,7 @@
 "Cursed": false,
 "Value": "apricorn_green",
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0,
 "TileLoc": {
 "X": 0,
@@ -5526,7 +5526,7 @@
 "Cursed": false,
 "Value": "apricorn_purple",
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0,
 "TileLoc": {
 "X": 0,
@@ -8123,7 +8123,7 @@
 "ID": "apricorn_blue",
 "Cursed": false,
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0
 },
 "Rate": 2,
@@ -8137,7 +8137,7 @@
 "ID": "apricorn_green",
 "Cursed": false,
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0
 },
 "Rate": 2,
@@ -8151,7 +8151,7 @@
 "ID": "apricorn_white",
 "Cursed": false,
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0
 },
 "Rate": 2,
@@ -8165,7 +8165,7 @@
 "ID": "apricorn_purple",
 "Cursed": false,
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0
 },
 "Rate": 2,
@@ -10077,7 +10077,7 @@
 "Cursed": false,
 "Value": "apricorn_brown",
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0,
 "TileLoc": {
 "X": 0,
@@ -10092,7 +10092,7 @@
 "Cursed": false,
 "Value": "apricorn_purple",
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0,
 "TileLoc": {
 "X": 0,
@@ -11802,7 +11802,7 @@
 "Cursed": false,
 "Value": "apricorn_brown",
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0,
 "TileLoc": {
 "X": 0,
@@ -11817,7 +11817,7 @@
 "Cursed": false,
 "Value": "apricorn_purple",
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0,
 "TileLoc": {
 "X": 0,
@@ -13527,7 +13527,7 @@
 "Cursed": false,
 "Value": "apricorn_brown",
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0,
 "TileLoc": {
 "X": 0,
@@ -13542,7 +13542,7 @@
 "Cursed": false,
 "Value": "apricorn_purple",
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0,
 "TileLoc": {
 "X": 0,
@@ -15248,7 +15248,7 @@
 "Cursed": false,
 "Value": "apricorn_brown",
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0,
 "TileLoc": {
 "X": 0,
@@ -15263,7 +15263,7 @@
 "Cursed": false,
 "Value": "apricorn_purple",
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0,
 "TileLoc": {
 "X": 0,
@@ -16973,7 +16973,7 @@
 "Cursed": false,
 "Value": "apricorn_brown",
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0,
 "TileLoc": {
 "X": 0,
@@ -16988,7 +16988,7 @@
 "Cursed": false,
 "Value": "apricorn_purple",
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0,
 "TileLoc": {
 "X": 0,
@@ -18698,7 +18698,7 @@
 "Cursed": false,
 "Value": "apricorn_brown",
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0,
 "TileLoc": {
 "X": 0,
@@ -18713,7 +18713,7 @@
 "Cursed": false,
 "Value": "apricorn_purple",
 "HiddenValue": "",
-"Amount": 0,
+"Amount": 2,
 "Price": 0,
 "TileLoc": {
 "X": 0,
