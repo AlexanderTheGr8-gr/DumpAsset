@@ -38,24 +38,27 @@
 "BaseCharges": 21,
 "Strikes": 1,
 "HitboxAction": {
-"$type": "RogueEssence.Dungeon.OffsetAction, RogueEssence",
+"$type": "RogueEssence.Dungeon.ProjectileAction, RogueEssence",
 "Emitter": {
-"$type": "RogueEssence.Content.EmptyCircleSquareEmitter, RogueEssence",
-"LocHeight": 0
+"$type": "RogueEssence.Content.EmptyAttachEmitter, RogueEssence"
 },
-"HitTiles": true,
-"BurstTiles": 0,
-"HitArea": 0,
-"Range": 3,
+"HitTiles": false,
+"Range": 6,
+"Rays": 0,
 "Speed": 10,
+"Boomerang": false,
 "CharAnimData": {
 "$type": "RogueEssence.Dungeon.CharAnimFrameType, RogueEssence",
 "ActionType": 36
 },
+"StopAtHit": true,
+"StopAtWall": true,
 "TargetAlignments": 4,
 "TileEmitter": {
-"$type": "RogueEssence.Content.RepeatEmitter, RogueEssence",
+"$type": "RogueEssence.Content.SingleEmitter, RogueEssence",
 "LocHeight": 0,
+"finished": false,
+"Offset": 0,
 "Anim": {
 "$type": "RogueEssence.Content.StaticAnim, RogueEssence",
 "Anim": {
@@ -71,10 +74,8 @@
 "Cycles": 1,
 "FrameOffset": 0
 },
-"Bursts": 3,
-"BurstTime": 8,
 "Layer": 2,
-"Offset": 0
+"UseDest": false
 },
 "PreActions": [
 {
