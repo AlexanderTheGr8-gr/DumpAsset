@@ -44,6 +44,16 @@
 "AbandonRangeOnHit": false
 },
 {
+"$type": "PMDC.Dungeon.BustTrapPlan, PMDC",
+"IQ": 413,
+"RestrictedMobilityTypes": 0,
+"RestrictMobilityPassable": false,
+"AttackRange": 0,
+"StatusRange": 0,
+"SelfStatusRange": 0,
+"AbandonRangeOnHit": false
+},
+{
 "$type": "PMDC.Dungeon.ExplorePlan, PMDC",
 "IQ": 413,
 "RestrictedMobilityTypes": 0,
